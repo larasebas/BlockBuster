@@ -28,5 +28,6 @@ namespace BlockbusterTest
             var result = BlockBuster.BlockBusterBasicFunctions.GetAllCheckedOutMovies();
             Assert.True(result.Count == 3);
         }
+        //testing git
     }
 }
